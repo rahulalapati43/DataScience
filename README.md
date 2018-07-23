@@ -1,2 +1,2 @@
 # DataScience
-To perform all the tasks given in Data Science Specialization
+To perform all the tasks given in Data Science Incubator
